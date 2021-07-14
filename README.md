@@ -26,7 +26,7 @@
 
 ### Reach out to me at:
 [<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" height="60px" width="60px">](https://www.linkedin.com/in/dhairya-joshi)
- [<img src="https://i.pinimg.com/originals/d2/e5/3e/d2e53ea31ec15e6a8129008563713de5.png" height="60px" width="60px">](instagram.com/dhairyajoshi_)
+ [<img src="https://i.pinimg.com/originals/d2/e5/3e/d2e53ea31ec15e6a8129008563713de5.png" height="60px" width="60px">](https://instagram.com/dhairyajoshi_)
  [<img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" height="60px" width="60px">](https://twitter.com/dhairyajoshi_)
 
 
