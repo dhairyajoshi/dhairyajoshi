@@ -19,6 +19,8 @@
 
 ![Dhairya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairyajoshi&show_icons=true&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyajoshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
