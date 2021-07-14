@@ -1,9 +1,9 @@
 ## Hey There, I'm Dhairya Joshi
 
-
+- ℹ️ I'm currently pursuing my bachelor's degree in Computer Science and Engineering
 - 🔭 I’m currently working on improving my coding skills
 - 🌱 I’m currently learning React, Flutter
-- 🥅 This year's goal: Contributing more to Open Source and expanding skill set
+- 🥅 This year's goal: Contributing more to Open Source and expanding my skill set
 
 ### Skills Known:
 
