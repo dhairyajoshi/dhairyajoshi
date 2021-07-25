@@ -2,7 +2,7 @@
 
 - ℹ️ I'm currently pursuing my bachelor's degree in Computer Science and Engineering
 - 🔭 I’m currently working on improving my coding skills
-- 🌱 I’m currently learning React, Flutter
+- 🌱 I’m currently learning Android App Development
 - 🥅 This year's goal: Contributing more to Open Source and expanding my skill set
 
 ### Skills Known:
