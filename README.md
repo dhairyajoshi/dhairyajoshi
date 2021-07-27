@@ -12,6 +12,7 @@
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px" height="50px" />
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="70px" height="50px" />
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50px" height="50px" />
+<img align ="left" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50px" height="50px" />
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="50px" height="50px">
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png" width="50px" height="50px">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="50px" height="50px">
