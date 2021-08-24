@@ -1,14 +1,11 @@
-
-
-![Alt Text](https://media2.giphy.com/media/UReWF9frq7Rv7ZIqhy/giphy.gif)
-
-
 ## Hey There, I'm Dhairya Joshi
 
 - ℹ️ I'm currently pursuing my bachelor's degree in Computer Science and Engineering
 - 🔭 I’m currently working on improving my coding skills
 - 🌱 I’m currently learning Android App Development
 - 🥅 This year's goal: Contributing more to Open Source and expanding my skill set
+
+![Alt Text](https://media2.giphy.com/media/UReWF9frq7Rv7ZIqhy/giphy.gif)
 
 ### Skills Known:
 
