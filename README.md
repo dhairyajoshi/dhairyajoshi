@@ -1,6 +1,6 @@
 
 
-![Alt Text](https://i.pinimg.com/originals/c1/02/26/c10226fbdcdfb57f6a8021d6761ac359.gif)
+![Alt Text](https://media2.giphy.com/media/UReWF9frq7Rv7ZIqhy/giphy.gif)
 
 
 ## Hey There, I'm Dhairya Joshi
