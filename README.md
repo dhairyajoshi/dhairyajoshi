@@ -1,3 +1,8 @@
+
+
+![Alt Text](https://i.pinimg.com/originals/c1/02/26/c10226fbdcdfb57f6a8021d6761ac359.gif)
+
+
 ## Hey There, I'm Dhairya Joshi
 
 - ℹ️ I'm currently pursuing my bachelor's degree in Computer Science and Engineering
