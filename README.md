@@ -1,4 +1,4 @@
-## Hey There, I'm Dhairya Joshi
+## Hey There, I'm Dhairya Joshi 
 
 - ℹ️ I'm currently pursuing my bachelor's degree in Computer Science and Engineering
 - 🔭 I’m currently working on improving my coding skills
@@ -21,6 +21,12 @@
 <img  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="50px" height="50px">
 
 <br/>
+
+### Competitive Coding stats:
+![](https://www.codewars.com/users/dhairyajoshi/badges/large)
+<br />
+![](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/coderr_&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400) 
+
 
 ![Dhairya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairyajoshi&show_icons=true&theme=dark)
 
