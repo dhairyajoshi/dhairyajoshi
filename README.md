@@ -14,6 +14,8 @@
 <img align ="left" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="50px" height="50px" />
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px" height="50px" />
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="70px" height="50px" />
+<img align ="left" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="70px" height="50px" />
+<img align ="left" src="https://kubedex.com/wp-content/uploads/2018/09/mongodb-replicaset.png" width="70px" height="70px" />
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50px" height="50px" />
 <img align ="left" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50px" height="50px" />
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="50px" height="50px">
