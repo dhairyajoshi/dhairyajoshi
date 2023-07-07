@@ -14,7 +14,7 @@
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px" height="50px" />
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="70px" height="50px" />
 <img align ="left" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="70px" height="50px" />
-<img align ="left" src="https://kubedex.com/wp-content/uploads/2018/09/mongodb-replicaset.png" width="70px" height="70px" />
+<img align ="left" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" width="70px" height="70px" />
 <img align ="left" src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" width="100px" height="70px" />
 <img align ="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50px" height="50px" />
 <img align ="left" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50px" height="50px" />
@@ -28,8 +28,7 @@
 ### Competitive Coding stats:
 ![](https://www.codewars.com/users/dhairyajoshi/badges/large)
 <br />
-![](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/coderr_&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400) 
-
+![LeetCode Stats](https://leetcode.card.workers.dev/dhairyajoshi?theme=dark&font=source_code_pro&extension=null)
 
 ![Dhairya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairyajoshi&show_icons=true&theme=dark)
 
